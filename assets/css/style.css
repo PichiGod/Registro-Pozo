@@ -1,0 +1,15 @@
+table{
+    border: 2px;
+}
+
+.modalForDel{
+    color: blue;
+}
+
+footer {
+    background-color: black;
+}
+
+.container-fluid{
+    padding: 0%;
+}
